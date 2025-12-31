@@ -21,3 +21,12 @@ A console-based digital banking system written in C++ that simulates ATM and bas
    g++ main.cpp -o banking
 2. Run the program:
    ./banking
+   
+## Future Improvements
+- PIN encryption
+- Daily limit reset by date
+- Better input validation
+
+## Author
+Ammar Jeelani
+Computer Science Student
