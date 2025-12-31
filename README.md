@@ -28,5 +28,5 @@ A console-based digital banking system written in C++ that simulates ATM and bas
 - Better input validation
 
 ## Author
-Ammar Jeelani
+Ammar Jeelani,
 Computer Science Student
